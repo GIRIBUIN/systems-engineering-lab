@@ -1,0 +1,32 @@
+# Build
+build/
+out/
+target/
+bin/
+obj/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# C/C++
+*.o
+*.obj
+*.exe
+*.pdb
+
+# Java
+.gradle/
+*.class
+
+# Go
+*.test
+
+# Profiling / temporary
+*.prof
+*.trace
+*.tmp
